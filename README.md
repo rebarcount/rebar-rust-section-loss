@@ -11,8 +11,8 @@ bar's cross-section is gone, for a diameter loss you measured, bar size by bar s
 
 ## The file
 
-`rust-section-loss.csv` is long format, one row per bar size and diameter-loss step: five sizes
-(#3 to #8) and four steps (0.005 to 0.030 in), 20 rows.
+`rust-section-loss.csv` is long format, one row per bar size and diameter-loss step: six sizes
+(#3, #4, #5, #6, #7, #8) and four steps (0.005 to 0.030 in), 24 rows.
 
 | column | meaning |
 |---|---|
